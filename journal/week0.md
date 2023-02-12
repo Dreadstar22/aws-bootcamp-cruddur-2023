@@ -1,7 +1,10 @@
 # Week 0 — Billing and Architecture
 
-## Lucid Charts Diagram
-![Lucid Charts](https://i.imgur.com/vUw6EU1.png)
+## Lucid Charts Conceptual Diagram
+![Conceptual Napkin Diagram](https://i.imgur.com/DAft1eH.png)
+
+## Lucid Charts Logical Architectual Diagram
+![Logical Architectual Diaram](https://i.imgur.com/vUw6EU1.png)
 Share Link: https://lucid.app/lucidchart/29dff0e8-c13b-4983-b1f6-53b4a7dd9742/edit?invitationId=inv_b09b6dab-6d7d-49a7-88ca-57a70211b7a0
 
 ## Redeemed Voucher

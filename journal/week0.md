@@ -20,7 +20,7 @@ Share Link: https://lucid.app/lucidchart/29dff0e8-c13b-4983-b1f6-53b4a7dd9742/ed
 ![Setup Budgets](https://i.imgur.com/GH8r3ej.png)
 
 ## Setup Billing Alarms
-![Setip Billing Alarms](https://i.imgur.com/2uP5QPc.png)
+![Setup Billing Alarms](https://i.imgur.com/2uP5QPc.png)
 
 ## Installed AWS CLI
-![Install AWS CLI(https://i.imgur.com/h9XgkwC.png)
+![Install AWS CLI](https://i.imgur.com/h9XgkwC.png)

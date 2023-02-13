@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-## Lucid Charts Conceptual Diagram
+## Napkin Conceptual Diagram (The next Harry Potter like success!?!?)
 ![Conceptual Napkin Diagram](https://i.imgur.com/DAft1eH.png)
 
 ## Lucid Charts Logical Architectual Diagram

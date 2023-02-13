@@ -11,7 +11,7 @@ Share Link: https://lucid.app/lucidchart/29dff0e8-c13b-4983-b1f6-53b4a7dd9742/ed
 ![Redeemed Voucher](https://i.imgur.com/jgHkmIC.png)
 
 ## Setup IAM User
-![IAM User}(https://i.imgur.com/VajZNDd.png)
+![IAM User](https://i.imgur.com/VajZNDd.png)
 
 ## Setup MFA on Root and IAM user
 ![MFA Setup](https://i.imgur.com/UX8dK5V.png)
@@ -23,4 +23,6 @@ Share Link: https://lucid.app/lucidchart/29dff0e8-c13b-4983-b1f6-53b4a7dd9742/ed
 ![Setup Billing Alarms](https://i.imgur.com/2uP5QPc.png)
 
 ## Installed AWS CLI
-![Install AWS CLI](https://i.imgur.com/h9XgkwC.png)
+![CloudShell](https://i.imgur.com/h9XgkwC.png)
+![File](https://i.imgur.com/8MT1cTN.png)
+![Install](https://i.imgur.com/ziYcHTp.png)

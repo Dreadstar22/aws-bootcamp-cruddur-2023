@@ -44,13 +44,6 @@ app = Flask(__name__)
 FlaskInstrumentor().instrument_app(app)
 RequestsInstrumentor().instrument()
 
-# #New Code For Honeycomb
-export OTEL_EXPORTER_OTLP_ENDPOINT="https://api.honeycomb.io"
-export OTEL_EXPORTER_OTLP_HEADERS="x-honeycomb-team=yTl3Ah5KE8LOocjePkYPdE"
-export OTEL_SERVICE_NAME="your-service-name"
-python app.py
-# #end troublehshooting
-
 frontend = os.getenv('FRONTEND_URL')
 backend = os.getenv('BACKEND_URL')
 origins = [frontend, backend]
